@@ -1,0 +1,5 @@
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://gchq.github.io/CyberChef/#recipe=Find_/_Replace(%7B'option':'Regex','string':'one'%7D,'o1e',true,false,true,false)Find_/_Replace(%7B'option':'Regex','string':'two'%7D,'t2o',true,false,true,false)Find_/_Replace(%7B'option':'Regex','string':'three'%7D,'t3e',true,false,true,false)Find_/_Replace(%7B'option':'Regex','string':'four'%7D,'f4r',true,false,true,false)Find_/_Replace(%7B'option':'Regex','string':'five'%7D,'f5e',true,false,true,false)Find_/_Replace(%7B'option':'Regex','string':'six'%7D,'s6x',true,false,true,false)Find_/_Replace(%7B'option':'Regex','string':'seven'%7D,'s7n',true,false,true,false)Find_/_Replace(%7B'option':'Regex','string':'eight'%7D,'e8t',true,false,true,false)Find_/_Replace(%7B'option':'Regex','string':'nine'%7D,'n9e',true,false,true,false)Find_/_Replace(%7B'option':'Regex','string':'%5Ba-z%5D'%7D,'',true,false,true,false)Find_/_Replace(%7B'option':'Regex','string':'%5E(%5B0-9%5D)%5B0-9%5D%2B(%5B0-9%5D)'%7D,'$1$2',true,false,true,false)Find_/_Replace(%7B'option':'Regex','string':'%5E(%5B0-9%5D)$'%7D,'$1$1',true,false,true,false)Sum('Line%20feed')

@@ -1,0 +1,5 @@
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://gchq.github.io/CyberChef/#recipe=Find_/_Replace(%7B'option':'Regex','string':'%5Ba-z%5D'%7D,'',true,false,true,false)Find_/_Replace(%7B'option':'Regex','string':'%5E(%5B0-9%5D)%5B0-9%5D%2B(%5B0-9%5D)'%7D,'$1$2',true,false,true,false)Find_/_Replace(%7B'option':'Regex','string':'%5E(%5B0-9%5D)$'%7D,'$1$1',true,false,true,false)Sum('Line%20feed')
